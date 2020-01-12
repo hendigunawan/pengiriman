@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\bin\Debug\PengirimanBarang.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\obj\Debug\PengirimanBarang.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\obj\Debug\PengirimanBarang.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\bin\Debug\PengirimanBarang.exe
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\bin\Debug\PengirimanBarang.pdb
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\bin\Debug\PengirimanBarang.xml
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\obj\Debug\PengirimanBarang.exe
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\obj\Debug\PengirimanBarang.xml
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\obj\Debug\PengirimanBarang.pdb
+c:\users\asus\documents\visual studio 2012\Projects\PengirimanBarang\PengirimanBarang\obj\Debug\PengirimanBarang.FLogin.resources
